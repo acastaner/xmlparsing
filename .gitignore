@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/xmlparsing/v14
+/src/xmlparsing/Properties/PublishProfiles
+/src/xmlparsing/xmlparsing.xproj.user
+/src/xmlparsing/Properties
+/src/xmlparsing/project.lock.json
